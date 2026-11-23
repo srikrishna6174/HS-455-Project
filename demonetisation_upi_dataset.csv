@@ -1,0 +1,56 @@
+group,indicator,period,value,unit,source_name,source_url
+sbn,sbn_in_circulation,2016-11-08,1541793,Rs crore,Business Standard (RBI AR 2017-18),https://www.business-standard.com/amp/article/news-ani/99-3-demonetised-notes-returned-to-banks-rbi-118082901029_1.html
+sbn,sbn_returned,2017-18 reconciliation,1531073,Rs crore,Business Standard (RBI AR 2017-18),https://www.business-standard.com/amp/article/news-ani/99-3-demonetised-notes-returned-to-banks-rbi-118082901029_1.html
+sbn,sbn_not_returned,2017-18 reconciliation,10720,Rs crore,Business Today (RBI AR 2017-18),https://www.businesstoday.in/latest/economy-politics/story/rbi-says-99pc-demonetised-notes-were-returned-10-major-points-108971-2018-08-29
+sbn,sbn_returned_first_estimate,2016-17 (30 Jun 2017),1528000,Rs crore,Business Standard (RBI AR 2016-17),https://www.business-standard.com/amp/article/economy-policy/people-returned-98-96-of-demonetised-rs-500-and-rs-1-000-notes-rbi-117083001197_1.html
+sbn,sbn_in_circulation_first_estimate,2016-17,1544000,Rs crore,Business Standard (RBI AR 2016-17),https://www.business-standard.com/amp/article/economy-policy/people-returned-98-96-of-demonetised-rs-500-and-rs-1-000-notes-rbi-117083001197_1.html
+cost,printing_cost,FY2015-16,3421,Rs crore,Business Standard (RBI AR),https://www.business-standard.com/article/pti-stories/99-3-of-junked-rs-500-rs-1-000-notes-returned-to-banks-rbi-118082900391_1.html
+cost,printing_cost,FY2016-17,7965,Rs crore,Business Standard (RBI AR),https://www.business-standard.com/article/pti-stories/99-3-of-junked-rs-500-rs-1-000-notes-returned-to-banks-rbi-118082900391_1.html
+cost,printing_cost,FY2017-18,4912,Rs crore,Business Today (RBI AR),https://www.businesstoday.in/latest/economy-politics/story/rbi-says-99pc-demonetised-notes-were-returned-10-major-points-108971-2018-08-29
+counterfeit,change_detected_rs500_sbn,FY2016-17,-59.7,percent,Business Standard (RBI AR),https://www.business-standard.com/article/pti-stories/99-3-of-junked-rs-500-rs-1-000-notes-returned-to-banks-rbi-118082900391_1.html
+counterfeit,change_detected_rs1000_sbn,FY2016-17,-59.6,percent,Business Standard (RBI AR),https://www.business-standard.com/article/pti-stories/99-3-of-junked-rs-500-rs-1-000-notes-returned-to-banks-rbi-118082900391_1.html
+counterfeit,change_detected_rs100,FY2016-17,35.0,percent,Business Standard (RBI AR),https://www.business-standard.com/article/pti-stories/99-3-of-junked-rs-500-rs-1-000-notes-returned-to-banks-rbi-118082900391_1.html
+counterfeit,change_detected_rs50,FY2016-17,154.3,percent,Business Standard (RBI AR),https://www.business-standard.com/article/pti-stories/99-3-of-junked-rs-500-rs-1-000-notes-returned-to-banks-rbi-118082900391_1.html
+gdp,gdp_growth_annual,FY2014-15,7.4,percent,Lok Sabha reply (MoF),https://eparlib.nic.in/bitstream/123456789/776947/1/AU3930.pdf
+gdp,gdp_growth_annual,FY2015-16,8.2,percent,Lok Sabha reply (MoF),https://eparlib.nic.in/bitstream/123456789/776947/1/AU3930.pdf
+gdp,gdp_growth_annual,FY2016-17,7.1,percent,Lok Sabha reply (MoF),https://eparlib.nic.in/bitstream/123456789/776947/1/AU3930.pdf
+gdp,gdp_growth_quarter,Q2 FY2016-17,7.3,percent,Business Standard (study report),https://business-standard.com/article/economy-policy/demonetisation-severely-hit-economic-growth-jobs-bank-credits-study-118121901022_1.html
+gdp,gdp_growth_quarter,Q3 FY2016-17 (revised),6.8,percent,Lok Sabha reply (MoF),https://eparlib.nic.in/bitstream/123456789/776947/1/AU3930.pdf
+gdp,gdp_growth_quarter,Q3 FY2016-17 (original),7.0,percent,Business Standard (study report),https://www.business-standard.com/article/news-ians/demonetisation-hit-growth-jobs-bank-credit-economists-report-118121901022_1.html
+gdp,gdp_growth_quarter,Q4 FY2016-17,6.1,percent,Lok Sabha reply (MoF),https://eparlib.nic.in/bitstream/123456789/776947/1/AU3930.pdf
+gdp,gva_growth_quarter,Q4 FY2016-17,5.6,percent,Business Standard,https://www.business-standard.com/amp/article/economy-policy/note-ban-effect-gdp-growth-enters-slow-lane-in-q4-at-6-1-117053101684_1.html
+rbi_forecast,gva_forecast_fy17,Oct 2016 policy,7.6,percent,RBI preliminary assessment,https://rbi.org.in/scripts/PublicationsView.aspx?id=17447
+rbi_forecast,gva_forecast_fy17,Dec 2016 policy,7.1,percent,RBI preliminary assessment,https://rbi.org.in/scripts/PublicationsView.aspx?id=17447
+rbi_forecast,gva_forecast_fy17,Feb 2017 policy,6.9,percent,RBI preliminary assessment,https://rbi.org.in/scripts/PublicationsView.aspx?id=17447
+rbi_forecast,demonetisation_impact_on_gva_fy17,Feb 2017 estimate,0.33,percentage points,RBI preliminary assessment,https://rbi.org.in/scripts/PublicationsView.aspx?id=17447
+nber,activity_growth_loss_quarter_of_shock,2016 Q4 (Jan-Mar),-2.0,percentage points,Chodorow-Reich et al. via Business Standard,https://www.business-standard.com/article/news-ians/demonetisation-hit-growth-jobs-bank-credit-economists-report-118121901022_1.html
+nber,activity_decline_nov_dec_2016,Nov-Dec 2016,-3.0,percent,Chodorow-Reich et al. via Business Standard,https://www.business-standard.com/article/news-ians/demonetisation-hit-growth-jobs-bank-credit-economists-report-118121901022_1.html
+nber,informal_share_employment,2018,81,percent,ILO via Chodorow-Reich et al.,https://www.business-standard.com/article/news-ians/demonetisation-hit-growth-jobs-bank-credit-economists-report-118121901022_1.html
+nber,informal_share_output,2018,44,percent,CSO via Chodorow-Reich et al.,https://www.business-standard.com/article/news-ians/demonetisation-hit-growth-jobs-bank-credit-economists-report-118121901022_1.html
+tax,corporate_returns_filed,FY2016-17,801115,count,India Today interview (LSE PDF),https://personal.lse.ac.uk/ghatak/IT_interview.pdf
+tax,corporate_returns_filed,FY2017-18,938620,count,India Today interview (LSE PDF),https://personal.lse.ac.uk/ghatak/IT_interview.pdf
+cic,currency_in_circulation,2016-11-08,17.77,Rs trillion,Business Standard (MoF data),https://www.business-standard.com/amp/economy/news/ten-years-note-ban-india-cash-digital-payments-upi-growth-demonetisation-126110501369_1.html
+cic,currency_in_circulation,2026-10-23,43.16,Rs trillion,Business Standard (MoF data),https://www.business-standard.com/amp/economy/news/ten-years-note-ban-india-cash-digital-payments-upi-growth-demonetisation-126110501369_1.html
+cic,currency_in_circulation,FY2025-26 end,41.68,Rs trillion,Business Standard (RBI data),https://www.business-standard.com/amp/economy/news/ten-years-note-ban-india-cash-digital-payments-upi-growth-demonetisation-126110501369_1.html
+cic,cic_growth_fy26,FY2025-26,11.9,percent,Business Standard (RBI data),https://www.business-standard.com/amp/economy/news/ten-years-note-ban-india-cash-digital-payments-upi-growth-demonetisation-126110501369_1.html
+cic,cic_to_gdp,FY2015-16,12.1,percent,Business Standard (RBI data),https://www.business-standard.com/amp/economy/news/ten-years-note-ban-india-cash-digital-payments-upi-growth-demonetisation-126110501369_1.html
+cic,cic_to_gdp,FY2016-17,8.7,percent,Business Standard (RBI data),https://www.business-standard.com/amp/economy/news/ten-years-note-ban-india-cash-digital-payments-upi-growth-demonetisation-126110501369_1.html
+cic,cic_to_gdp,FY2020-21,14.4,percent,RBI Bulletin Sep 2025,https://www.rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=23646
+cic,cic_to_gdp,FY2023-24,11.7,percent,RBI Bulletin Sep 2025,https://www.rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=23646
+cic,cic_to_gdp,FY2024-25,11.2,percent,RBI Bulletin Sep 2025,https://www.rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=23646
+cic,currency_to_demand_deposits_ratio,FY2015-16,1.68,ratio,RBI Bulletin Sep 2025,https://www.rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=23646
+cic,currency_to_demand_deposits_ratio,FY2024-25,1.31,ratio,RBI Bulletin Sep 2025,https://www.rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=23646
+upi,upi_volume,2025-10,20.7,billion,Outlook Business (NPCI data),https://www.outlookbusiness.com/corporate/upi-transactions-hit-record-high-of-2728-lakh-crore-in-oct
+upi,upi_value,2025-10,27.28,Rs lakh crore,Outlook Business (NPCI data),https://www.outlookbusiness.com/corporate/upi-transactions-hit-record-high-of-2728-lakh-crore-in-oct
+upi,upi_volume,2026-08,24.51,billion,Outlook Money (NPCI data),https://www.outlookmoney.com/banking/upi-average-daily-transaction-value-crosses-rs-1-lakh-crore-for-first-time-ever-in-october
+upi,upi_value,2026-08,29.82,Rs lakh crore,Outlook Money (NPCI data),https://www.outlookmoney.com/banking/upi-average-daily-transaction-value-crosses-rs-1-lakh-crore-for-first-time-ever-in-october
+upi,upi_volume,2026-09,24.07,billion,Business Today (NPCI data),https://www.businesstoday.in/latest/economy/story/upi-clocks-24-07-bn-transactions-worth-rs29-37-lakh-crore-in-september-as-festive-spending-gathers-pace-558981-2026-10-01
+upi,upi_value,2026-09,29.37,Rs lakh crore,Business Today (NPCI data),https://www.businesstoday.in/latest/economy/story/upi-clocks-24-07-bn-transactions-worth-rs29-37-lakh-crore-in-september-as-festive-spending-gathers-pace-558981-2026-10-01
+upi,upi_volume,2026-10,25.47,billion,Inc42 (NPCI data),https://inc42.com/buzz/upi-transactions-rise-5-8-mom-to-record-25-47-bn-in-october/
+upi,upi_value,2026-10,31.53,Rs lakh crore,Inc42 (NPCI data),https://inc42.com/buzz/upi-transactions-rise-5-8-mom-to-record-25-47-bn-in-october/
+upi,upi_avg_daily_volume,2026-10,822,million,Entrepreneur India (NPCI data),https://india.entrepreneur.com/business-news/upi-hits-record-25-47-bn-transactions-in-october-daily-value-crosses-inr-1-l-cr
+upi,upi_volume_fy26,FY2025-26,241.6169,billion,TaxTMI (NPCI data - verify),https://www.taxtmi.com/news?id=72606
+upi,upi_value_fy26,FY2025-26,314,Rs lakh crore,TaxTMI (NPCI data - verify),https://www.taxtmi.com/news?id=72606
+upi,p2m_share_of_volume,2025,63,percent,TaxTMI (NPCI data - verify),https://www.taxtmi.com/news?id=72606
+upi,digital_retail_volume_cagr_fy17_fy23,FY2016-17 to FY2022-23,51,percent,RBI paper (Awasthy et al.),https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4344
+upi,digital_retail_value_cagr_fy17_fy23,FY2016-17 to FY2022-23,27,percent,RBI paper (Awasthy et al.),https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4344

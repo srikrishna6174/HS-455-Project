@@ -1,0 +1,96 @@
+================================================================
+DEMONETISATION AND UPI IN INDIA: RESULTS OF OUR ANALYSIS
+================================================================
+Rows read from dataset: 55
+
+--- PART A: BLACK MONEY (H1) ---
+SBNs in circulation (Rs crore)        : 1,541,793
+SBNs returned (Rs crore)              : 1,531,073
+Share returned                        : 99.30%
+Share NOT returned                    : 0.70%
+Check: circ - returned = 10,720 crore vs reported 10,720 crore
+First RBI estimate (AR 2016-17)       : 98.96% returned
+
+Printing cost FY16 / FY17 / FY18      : 3,421 / 7,965 / 4,912 Rs crore
+Extra printing cost in FY17           : 4,544 crore (2.33 times)
+Extra cost as % of non-returned notes : 42.4%
+FY18 printing still above FY16 by     : 1,491 crore
+Two-year extra cost (FY17+FY18)       : 6,035 crore = 56.3% of non-returned notes
+
+Counterfeits detected, change in FY17 : Rs500 -59.7%, Rs1000 -59.6%, Rs100 +35.0%, Rs50 +154.3%
+Corporate returns filed FY17 -> FY18  : 801,115 -> 938,620 (+17.2%)
+
+H1 rule: less than 1% of SBNs failed to return -> SUPPORTED
+
+--- PART B: GDP GROWTH (H3) ---
+Annual GDP growth FY15 / FY16 / FY17  : 7.4 / 8.2 / 7.1 %
+Average of the two years before       : 7.80%
+FY17 shortfall vs that average        : 0.70 percentage points
+FY17 vs FY16 fall                     : 1.10 percentage points
+
+Quarterly GDP growth Q2/Q3(rev)/Q4    : 7.3 / 6.8 / 6.1 %
+Fall from Q2 (pre-shock) to Q4        : 1.2 percentage points
+Fall from Q2 to Q3 (revised)          : 0.5 percentage points
+Q3 original vs revised                : 7.0 vs 6.8 (data revision of 0.2 pp)
+Q4 GVA growth                         : 5.6%
+
+RBI FY17 GVA forecast Oct/Dec/Feb     : 7.6 / 7.1 / 6.9 %
+Total forecast cut Oct -> Feb         : 0.7 pp
+RBI's own demonetisation effect       : 0.33 pp -> 47% of the forecast cut
+Official GDP FY17 vs RBI Feb forecast : 7.1 vs 6.9 (GVA and GDP are not the same, so only rough)
+
+NBER study: growth loss in the quarter: -2.0 pp, Nov-Dec activity -3.0%
+NBER loss is about 6.1 times the RBI's full-year estimate of 0.33 pp
+(different periods - quarter vs whole year - so this is only a rough comparison)
+Informal sector: 81% of jobs but 44% of output
+
+H3 rule: sharp short-run fall but not a collapse -> SUPPORTED
+
+--- PART C: UPI AND FORMALISATION (H2) ---
+Month      Volume (bn)  Value (Rs lakh cr)  Avg ticket (Rs)
+2026-08          24.51               29.82             1217
+2026-09          24.07               29.37             1220
+2026-10          25.47               31.53             1238
+
+Oct vs Sep 2026: volume +5.8%, value +7.4% (Oct has 31 days, Sep has 30)
+Per-day volume Oct vs Sep: +2.4%, per-day value +3.9%
+Oct 2026 vs Oct 2025 (YoY): volume +23.0%, value +15.6%
+Average daily value in Oct 2026: Rs 101,710 crore (NPCI reports about 1,01,707)
+If volume keeps growing at 23% a year it doubles in about 3.3 years
+
+FY26 UPI: 241.6 bn transactions, Rs 314 lakh crore -> avg ticket Rs 1,300
+Average ticket FY26 vs Oct 2026: Rs 1,300 vs Rs 1,238 (value per transaction is falling slightly)
+P2M share of volume: 63% (so person-to-merchant dominates)
+RBI paper: digital retail CAGR FY17-FY23 volume 51%, value 27%
+Volume grows about 1.9 times faster than value -> payments getting smaller and more frequent
+
+H2 rule: UPI volume still growing above 15% a year long after cash returned -> SUPPORTED
+
+--- PART D: THE CASH PARADOX (H4) ---
+CIC on 8 Nov 2016 / 23 Oct 2026       : Rs 17.77 / 43.16 trillion
+Increase                              : 143% over 10.0 years
+CAGR of CIC                           : 9.2% a year
+Growth of CIC in FY26 alone           : 11.9%
+
+Monthly UPI value (Oct 2026)          : Rs 31.53 trillion
+UPI monthly value / CIC               : 73%
+UPI annualised value / CIC            : 8.8 times
+UPI value in FY26 / CIC (end FY26)    : 7.5 times
+
+CIC/GDP FY16 / FY17 / FY21 / FY24 / FY25: 12.1 / 8.7 / 14.4 / 11.7 / 11.2 %
+Drop in the year of shock (FY16->FY17): -3.4 pp
+Recovery FY17 -> FY21 peak            : +5.7 pp
+Fall FY21 -> FY25                     : -3.2 pp
+FY25 compared with FY16               : -0.9 pp (so cash/GDP is close to the pre-shock level)
+Currency / demand deposits FY16 -> FY25: 1.68 -> 1.31 (-22%)
+
+H4 rule: CIC more than doubled in rupees AND CIC/GDP fell from its peak -> SUPPORTED
+
+--- SUMMARY OF HYPOTHESES ---
+H1 (black money, notes returned) : Supported
+H2 (UPI keeps growing)           : Supported
+H3 (sharp but short GDP hit)     : Supported
+H4 (cash and UPI grow together)  : Supported
+
+Note: these are simple rules we chose ourselves. They show whether the numbers
+are consistent with each hypothesis; they do not prove cause and effect.
